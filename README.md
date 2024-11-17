@@ -2,7 +2,7 @@
 
 ## Overview
 
-This web scraper project is designed to extract information about books from a specified website using Jsoup, a Java HTML parser library.
+This web scrapper project is designed to extract information about books from a specified website using Jsoup, a Java HTML parser library.
 
 ## Features
 
